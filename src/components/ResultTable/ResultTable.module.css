@@ -1,0 +1,12 @@
+.resultTable {
+  width: 100%;
+  text-align: center;
+}
+.resultTable th {
+  text-transform: uppercase;
+}
+.resultTable th,
+.resultTable td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
